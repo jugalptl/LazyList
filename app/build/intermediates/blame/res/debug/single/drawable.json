@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\iGroup\\AndroidStudioProjects\\LazyList1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stub.png",
+        "source": "C:\\Users\\iGroup\\AndroidStudioProjects\\LazyList1\\app\\src\\main\\res\\drawable\\stub.png"
+    },
+    {
+        "merged": "C:\\Users\\iGroup\\AndroidStudioProjects\\LazyList1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "C:\\Users\\iGroup\\AndroidStudioProjects\\LazyList1\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\iGroup\\AndroidStudioProjects\\LazyList1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dislike1.png",
+        "source": "C:\\Users\\iGroup\\AndroidStudioProjects\\LazyList1\\app\\src\\main\\res\\drawable\\dislike1.png"
+    },
+    {
+        "merged": "C:\\Users\\iGroup\\AndroidStudioProjects\\LazyList1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bar_bg.png",
+        "source": "C:\\Users\\iGroup\\AndroidStudioProjects\\LazyList1\\app\\src\\main\\res\\drawable\\bar_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\iGroup\\AndroidStudioProjects\\LazyList1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bar_bg_thin.png",
+        "source": "C:\\Users\\iGroup\\AndroidStudioProjects\\LazyList1\\app\\src\\main\\res\\drawable\\bar_bg_thin.png"
+    }
+]
